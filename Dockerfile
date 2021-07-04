@@ -6,7 +6,7 @@ copy mon-app/package*.json /zeineb/app/
 
 run npm install
 
-copy . /zeineb/app/
+copy mon-app/. /zeineb/app/
 
 EXPOSE 2000
 
