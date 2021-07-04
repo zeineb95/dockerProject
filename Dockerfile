@@ -1,8 +1,8 @@
 from node:12.22-buster
 
-workdir zeineb/app
+workdir /zeineb/app
 
-copy mon-app/package*.json zeineb/app/
+copy mon-app/package*.json /zeineb/app/
 
 run npm install
 
