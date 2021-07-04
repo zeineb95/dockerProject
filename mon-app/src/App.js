@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn with Zeineb Ferchichi DEVOPS
+          Learn DEVOPS with Zeineb Ferchichi
         </a>
       </header>
     </div>
