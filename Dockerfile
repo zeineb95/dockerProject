@@ -10,4 +10,4 @@ copy . /zeineb/app/
 
 EXPOSE 2000
 
-CMD ["npm","RUN","start"]
+CMD ["npm","run","start"]
