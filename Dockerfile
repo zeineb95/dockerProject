@@ -8,6 +8,6 @@ run npm install
 
 copy mon-app/. /zeineb/app/
 
-EXPOSE 2000
+EXPOSE 2500
 
 CMD ["npm","run","start"]
